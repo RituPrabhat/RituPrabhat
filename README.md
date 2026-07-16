@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RituPrabhat&color=blue&style=flat-square" alt="Profile views" />
+</p>
+
 <h1 align="center">Hi, I'm Ritu Prabhat</h1>
 <h3 align="center">Aspiring Data Scientist & Web Developer</h3>
 
