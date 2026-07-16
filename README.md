@@ -40,6 +40,7 @@
 | Project | Description |
 |---|---|
 | [RealShe](https://real-she.vercel.app) | Anonymous storytelling platform for girls & women to share their voices, safely |
+| [SmartWatts](https://github.com/RituPrabhat/SmartWatts) | Smart energy monitoring app built with TypeScript |
 | [Weather-Website](https://github.com/RituPrabhat/Weather-Website) | A responsive weather app built with HTML/CSS |
 | [SoothYoUrSoUL](https://github.com/RituPrabhat/SoothYoUrSoUL) | JavaScript web project |
 | [ExFresh](https://github.com/RituPrabhat/ExFresh) | JavaScript web project |
