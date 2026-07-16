@@ -35,3 +35,27 @@
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Weather-Website](https://github.com/RituPrabhat/Weather-Website) | A responsive weather app built with HTML/CSS |
+| [SoothYoUrSoUL](https://github.com/RituPrabhat/SoothYoUrSoUL) | JavaScript web project |
+| [ExFresh](https://github.com/RituPrabhat/ExFresh) | JavaScript web project |
+| [Customer-Segmentation-ML](https://github.com/RituPrabhat/Customer-Segmentation-ML) | Customer segmentation using machine learning |
+| [Multiple-Linear-Regression-Project](https://github.com/RituPrabhat/Multiple-Linear-Regression-Project) | Regression modeling project in Python |
+| [Simple-Linear-Regression-Weight-Height-Project](https://github.com/RituPrabhat/Simple-Linear-Regression-Weight-Height-Project) | Simple linear regression on weight/height data |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RituPrabhat&show_icons=true&theme=default" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RituPrabhat" />
+</p>
+
+---
+
